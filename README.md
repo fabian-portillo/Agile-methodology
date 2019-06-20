@@ -73,4 +73,59 @@ What problems are hindering my progress?
 
 ## User Stories
 
+![image](https://user-images.githubusercontent.com/50177169/59809906-6f4de080-92c8-11e9-8c33-b61628828bc1.png)
+
+A user story is a brief description of the function wanted by the end user. There are three elements to the user story. They are:
+
+A written description, planning the story (usually written on a card)
+
+A conversation about the story to gain better understanding
+
+A series of tests confirming the story.
+
+## Definition of Done
+
+![image](https://user-images.githubusercontent.com/50177169/59809938-8ee50900-92c8-11e9-9240-afe1c15254c2.png)
+
+It is a checklist of valuable activities needed to produce software that add verifiable / demonstrable value to the product.
+
+Focusing on the value-added steps allows the team to focus on what needs to be completed to create software and eliminate unnecessary activities that only complicate software development efforts
+
+Story Points
+
+![image](https://user-images.githubusercontent.com/50177169/59809958-a6bc8d00-92c8-11e9-9ccc-1f7ccd8599ef.png)
+
+Story Points or Story Points are a unit of measure to express or estimate the general effort that would be necessary to make an item of a product or any other part of production. Is a number or metric that indicates to the team how difficult / simple the story is (work to be done) and is directly related to complexity, unknowns and effort.
+
+The assigned values are not important, what matters are the relative values between the different stories.
+
+![image](https://user-images.githubusercontent.com/50177169/59809980-c05dd480-92c8-11e9-9fb1-1259331eeab9.png)
+
+Examples of scales to assign in Story Points:
+
+1,2,4,8,16
+
+X-Small, Small, Medium, Large, Extra-Large (known as "T-Shirt Sizing")
+
+Fibonacci sequence: 1,2,3,5,8,13,21
+
+Agile Planning: (Release, Iteration and Task)
+
+There are three levels of Agile development planning: release, iteration, and task. In the beginning stages, project developers and customers meet to discuss the primary user stories that are needed for the software. 
+The meeting’s initial focus is on the must-have features to estimate and prioritize what needs to be done.
+
+### Release planning 
+
+Is a customer-driven planning session. Both customers and developers choose a date for the first product release series. 
+They collaboratively decide what stories to incorporate during each release. The developers focus on the estimate efforts of the story while the customers focus on the story selections.
+
+### Iteration planning
+
+Requires collaborative efforts between customers and developers to initiate part of the release plan. During iterations, the customer defines and prioritizes the user stories while the developers estimate how much effort is required to develop each user story. 
+The timeline is much shorter for iterations, taking only weeks instead of months.
+
+### Task planning 
+
+Occurs after the iteration planning. Stories are broken down into a series of doable steps by the development team. Task lists are developed and posted in the project room so they are clearly visible to all party members. 
+Common tools used during this planning session include post-it notes and whiteboards. Each developer volunteers to perform a task and assign an estimate to it.
 
