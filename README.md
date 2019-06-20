@@ -2,7 +2,7 @@
 
 ## Introduction.
 
-This is a simple manual to have at hand the most important concepts and topics about the Agile methodology implemented to work in IBM.
+This is a simple manual to have at hand the most important concepts and topics about the Agile methodology implemented to work at IBM.
 
 # General concepts
 
