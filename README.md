@@ -91,7 +91,7 @@ It is a checklist of valuable activities needed to produce software that add ver
 
 Focusing on the value-added steps allows the team to focus on what needs to be completed to create software and eliminate unnecessary activities that only complicate software development efforts
 
-##### Story Points
+#### Story Points
 
 ![image](https://user-images.githubusercontent.com/50177169/59809958-a6bc8d00-92c8-11e9-9ccc-1f7ccd8599ef.png)
 
@@ -103,11 +103,11 @@ The assigned values are not important, what matters are the relative values betw
 
 Examples of scales to assign in Story Points:
 
-  1,2,4,8,16
+    1,2,4,8,16
 
-  X-Small, Small, Medium, Large, Extra-Large (known as "T-Shirt Sizing")
+    X-Small, Small, Medium, Large, Extra-Large (known as "T-Shirt Sizing")
 
-  Fibonacci sequence: 1,2,3,5,8,13,21
+    Fibonacci sequence: 1,2,3,5,8,13,21
 
 Agile Planning: (Release, Iteration and Task)
 
