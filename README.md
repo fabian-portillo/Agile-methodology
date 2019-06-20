@@ -37,17 +37,17 @@ The team Works together to determine the best approach to achieve the product go
 
 # Definitions
 
-Agile Project Charter and MVP
+## Agile Project Charter and MVP
 
 Agile Project Charter. It is considered as the basis on which all the work, rules, tools and behaviors of the team are built.
 
 The Project Charter contains three key elements:
 
-### 1. Vision: The vision defines the "why" of the project. This is the superior purpose, or the reason for the existence of the project.
+1. Vision: The vision defines the "why" of the project. This is the superior purpose, or the reason for the existence of the project.
 
-### 2. Mission: This is the "What" of the project and establishes what will be done in the project to achieve its superior purpose.
+2. Mission: This is the "What" of the project and establishes what will be done in the project to achieve its superior purpose.
 
-### 3. Success criteria: success criteria are management tests that describe the effects outside the solution itself.
+3. Success criteria: success criteria are management tests that describe the effects outside the solution itself.
 
 ## MVP (Minimum Viable Product)
 
@@ -66,7 +66,9 @@ Social contracts are put in place by teams to define the way that a particular t
 The sessions are held daily by the team so they can share pertinent information with each other.
 
 What did I do yesterday?
+
 What will I do today?
+
 What problems are hindering my progress?
 
 ## User Stories
