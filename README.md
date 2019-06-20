@@ -43,11 +43,11 @@ Agile Project Charter. It is considered as the basis on which all the work, rule
 
 The Project Charter contains three key elements:
 
-1. Vision: The vision defines the "why" of the project. This is the superior purpose, or the reason for the existence of the project.
+        1. Vision: The vision defines the "why" of the project. This is the superior purpose, or the reason for the existence of the project.
 
-2. Mission: This is the "What" of the project and establishes what will be done in the project to achieve its superior purpose.
+        2. Mission: This is the "What" of the project and establishes what will be done in the project to achieve its superior purpose.
 
-3. Success criteria: success criteria are management tests that describe the effects outside the solution itself.
+        3. Success criteria: success criteria are management tests that describe the effects outside the solution itself.
 
 ## MVP (Minimum Viable Product)
 
@@ -65,11 +65,11 @@ Social contracts are put in place by teams to define the way that a particular t
 
 The sessions are held daily by the team so they can share pertinent information with each other.
 
-What did I do yesterday?
+        What did I do yesterday?
 
-What will I do today?
+        What will I do today?
 
-What problems are hindering my progress?
+        What problems are hindering my progress?
 
 ## User Stories
 
@@ -77,11 +77,11 @@ What problems are hindering my progress?
 
 A user story is a brief description of the function wanted by the end user. There are three elements to the user story. They are:
 
-A written description, planning the story (usually written on a card)
+        A written description, planning the story (usually written on a card)
 
-A conversation about the story to gain better understanding
+        A conversation about the story to gain better understanding
 
-A series of tests confirming the story.
+        A series of tests confirming the story.
 
 ## Definition of Done
 
@@ -103,11 +103,11 @@ The assigned values are not important, what matters are the relative values betw
 
 Examples of scales to assign in Story Points:
 
-    1,2,4,8,16
+    1. 1,2,4,8,16
 
-    X-Small, Small, Medium, Large, Extra-Large (known as "T-Shirt Sizing")
+    2. X-Small, Small, Medium, Large, Extra-Large (known as "T-Shirt Sizing")
 
-    Fibonacci sequence: 1,2,3,5,8,13,21
+    3. Fibonacci sequence: 1,2,3,5,8,13,21
 
 Agile Planning: (Release, Iteration and Task)
 
