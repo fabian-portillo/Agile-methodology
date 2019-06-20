@@ -131,3 +131,113 @@ The timeline is much shorter for iterations, taking only weeks instead of months
 Occurs after the iteration planning. Stories are broken down into a series of doable steps by the development team. Task lists are developed and posted in the project room so they are clearly visible to all party members. 
 Common tools used during this planning session include post-it notes and whiteboards. Each developer volunteers to perform a task and assign an estimate to it.
 
+## Portfolio Wall
+
+A Portfolio Wall provides transparency of the flow of projects of an organization. When the flow of work is made visible, anyone can see, at a glance, an organization's projects and high level status.
+Participants
+
+• Iteration Manager
+
+• Cross-functional Team
+
+• Project Manager
+
+![image](https://user-images.githubusercontent.com/50177169/59810251-f8b1e280-92c9-11e9-9f3b-d53fd63d8a5f.png)
+
+## Iteration Wall
+
+The Iteration wall is used by Agile Teams to track the work through one iteration. 
+There are other common work walls: the Portfolio Wall, which allows upper management to track projects or epics of many teams across a large organization, and the Release, Program or Project Wall, which allows project managers to plan and track an entire project or release by visualizing epics and features through several iterations.
+
+#### Participants
+
+• Iteration Manager
+
+• Cross-functional Team
+
+![image](https://user-images.githubusercontent.com/50177169/59810286-1ed78280-92ca-11e9-91c3-279ebeabe89f.png)
+
+## Release Wall
+The Release, Program or Project Wall allows project managers to plan and track an entire project or release by visualizing epics and features through several iterations. 
+
+A Release wall is not meant to be a commitment, but a planning and communication tool for the organization. Release walls are generally used to help see dependencies across teams and visualize the flow of work across several iterations.
+
+#### Participants
+
+• Product Owner
+
+• Offering Manager
+
+• Iteration Manager
+
+• Deployment Manager
+
+![image](https://user-images.githubusercontent.com/50177169/59810317-3e6eab00-92ca-11e9-904a-437887c274ab.png)
+
+## etrospectives
+
+Retrospectives are meeting held at or near the end of a project. They give all parties involved a chance to look back and reflect on the work done during the process. 
+
+The entire team looks at what went well, what did not, where improvements can be made and, most importantly, how they can take the lessons that they have learned and turn them into actionable change.
+
+## Showcases
+The Showcase is a chance for the team to get feedback from stakeholders on the completed work and to discuss and adapt the backlog and prioritization. All who have an interest in the product, especially key stakeholders, are encouraged to attend this meeting.
+
+Much more than a demo, this is a chance for the Product Owner and team to listen and learn from the feedback from the stakeholders and to make adjustments to next steps based on this new information. This is often called "inspect and adapt."
+
+  #### Recommended: 30 minutes. 
+  
+## Product Backlog
+
+Is simply a list of all things that needs to be done within the project. It replaces the traditional requirements specification artifacts. These items can have a technical nature or can be user-centric e.g. in the form of user stories.
+
+![image](https://user-images.githubusercontent.com/50177169/59810355-7675ee00-92ca-11e9-820f-51394337b69c.png)
+
+## Burndown Chart
+
+A Burn-Up chart is a way of visualizing the rate of progress of a team. It shows the amount of work completed and remaining during a time-boxed period of work such as an Iteration or Release.
+
+#### Participants
+• Cross-functional Team
+
+• Iteration Manager
+
+![image](https://user-images.githubusercontent.com/50177169/59810376-93aabc80-92ca-11e9-84b4-53d027824d0f.png)
+
+## Velocity
+
+#### Velocity is a measure of the amount of work a Team can tackle during a single Sprint and is the key metric in Agile. 
+#### Velocity is calculated at the end of the Sprint by totaling the Points for all fully completed.
+
+![image](https://user-images.githubusercontent.com/50177169/59810414-b341e500-92ca-11e9-88a1-0231ac4d3cfb.png)
+
+# Agile Software Development Cycle
+
+![image](https://user-images.githubusercontent.com/50177169/59810435-c6ed4b80-92ca-11e9-8399-8dee717bba5e.png)
+
+## Automated Testing
+Implementing formal and thorough automated testing is a vital part of the agile process. The tests find and eliminate defects at their source to ensure that a working software package is delivered to the customer. 
+
+Developers can create the test code under a safety net using a variety of available frameworks while simultaneously developing the software code. This method protects other features while making changes to the software. It is also a faster, more efficient way to find bugs in the program.
+
+![image](https://user-images.githubusercontent.com/50177169/59810454-e4221a00-92ca-11e9-9d7c-758901ccce5a.png)
+
+## Test Driven Development
+Test Driven Development is a core agile and DevOps practice which is a complement to development methods where test cases are key to the development process. Unit and Component level test cases are developed in an automation framework such as Junit before any code is written. 
+
+The code that is written is always developed in response to a failing test. These test cases become part of your automated test suite which can be executed as part of your continuous integration process.
+
+![image](https://user-images.githubusercontent.com/50177169/59810474-fa2fda80-92ca-11e9-9814-ae3982e40565.png)
+
+## Pair Programming
+
+In pair programming, two developers work as a team on one programming task. 
+One person is the Driver, the person who enters the code, while the second person is the Navigator, the one who plans the next steps while fitting the code into the whole picture.
+
+## Continuous Integration Continuous Delivery
+
+During continuous integration, development teams input their code into the system several times throughout the day. A series of tests are run before the code is added to make sure it won’t damage other pre-existing tests or functions in the system. 
+
+![image](https://user-images.githubusercontent.com/50177169/59810502-1d5a8a00-92cb-11e9-86a5-c2260ae34815.png)
+
+
