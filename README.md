@@ -174,16 +174,22 @@ A Release wall is not meant to be a commitment, but a planning and communication
 
 ![image](https://user-images.githubusercontent.com/50177169/59810317-3e6eab00-92ca-11e9-904a-437887c274ab.png)
 
-## etrospectives
+## Retrospectives
 
 Retrospectives are meeting held at or near the end of a project. They give all parties involved a chance to look back and reflect on the work done during the process. 
 
 The entire team looks at what went well, what did not, where improvements can be made and, most importantly, how they can take the lessons that they have learned and turn them into actionable change.
 
+![image](https://user-images.githubusercontent.com/50177169/59810596-a671c100-92cb-11e9-8b3a-6844d25ddaa1.png)
+
+
 ## Showcases
 The Showcase is a chance for the team to get feedback from stakeholders on the completed work and to discuss and adapt the backlog and prioritization. All who have an interest in the product, especially key stakeholders, are encouraged to attend this meeting.
 
 Much more than a demo, this is a chance for the Product Owner and team to listen and learn from the feedback from the stakeholders and to make adjustments to next steps based on this new information. This is often called "inspect and adapt."
+
+![image](https://user-images.githubusercontent.com/50177169/59810672-023c4a00-92cc-11e9-91bc-6f648be047e2.png)
+
 
   #### Recommended: 30 minutes. 
   
