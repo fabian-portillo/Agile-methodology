@@ -30,7 +30,9 @@ It is a new way to think based on values, practices and principles that work to 
 The Product Owner Oversees all the business conditions of the project to ensure the right product is built and in the right order. 
 
 
+
 The Iteration Manager (Scrum Master) Is the team’s coach; they help the team work together effectively. Iteration Managers service the team by removing barriers that impair the progress, facilitating meetings and discussion groups, tracking progress, problem solving, and performing other project management duties.
+
 
 
 The team Works together to determine the best approach to achieve the product goals that are outlined by the product owner. The team decides which members will manage specific tasks, and outline the technical practices required to achieve the desired goals.
@@ -43,11 +45,11 @@ Agile Project Charter. It is considered as the basis on which all the work, rule
 
 The Project Charter contains three key elements:
 
-    1. Vision: The vision defines the "why" of the project. This is the superior purpose, or the reason for the existence of the project.
+1. Vision: The vision defines the "why" of the project. This is the superior purpose, or the reason for the existence of the project.
 
-    2. Mission: This is the "What" of the project and establishes what will be done in the project to achieve its superior purpose.
+2. Mission: This is the "What" of the project and establishes what will be done in the project to achieve its superior purpose.
 
-    3. Success criteria: success criteria are management tests that describe the effects outside the solution itself.
+3. Success criteria: success criteria are management tests that describe the effects outside the solution itself.
 
 ## MVP (Minimum Viable Product)
 
